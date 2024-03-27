@@ -1,0 +1,4 @@
+--- 
+Ajout de la colonne Region > à partir des données de departements, on mettra la Region
+
+Colonne Type d'appartement selon le m² > Selon des dimensions on avisera pour dire tel appartement est d'un tel type.
